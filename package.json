@@ -1,7 +1,7 @@
 {
   "name": "jh-search-index",
   "description": "A text search index module for Node.js. Search-index allows applications to add, delete and retrieve documents from a corpus. Retrieved documents are ordered by tf-idf relevance, filtering on metadata, and field weighting",
-  "version": "0.5.2",
+  "version": "1.0.0",
   "homepage": "https://github.com/johnhaley81/search-index",
   "engines": {
     "node": ">=0.10.0"
